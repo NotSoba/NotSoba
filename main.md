@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NotSoba
+- 👀 I’m interested in Dev GAME/WEBSITE
+- 💞️ I’m looking to collaborate on Game Dev
+- 📫 my discord : itsnotsoba 
+- ⚡ Fun fact: I am Not Riche :(
