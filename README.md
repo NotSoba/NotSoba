@@ -22,6 +22,7 @@ Voici les langages et outils sur lesquels je travaille actuellement :
 J'utilise mes projets pour appliquer mes connaissances de base. N'hésitez pas à jeter un œil !
 
 * **[hack de PVZ]** : `[Recherche de offsets puis modifier les donner comme par exemple le nombre d'étoile,` **` réaliser en Python]`**
+* **[HCR-Simple-Memory-Modifier]** : `[modification de valeur static avec une interface graphique],` **`réaliser  en Python]`**
 * **[Panel Optimisation]** : `[installer et lancer des .bat puis les supprimer depuis un serveur externe,` **`réaliser  en C++]`**
 
 ### 📈 Mon Activité sur GitHub
