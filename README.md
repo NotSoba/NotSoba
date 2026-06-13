@@ -24,6 +24,7 @@ J'utilise mes projets pour appliquer mes connaissances de base. N'hésitez pas �
 * **[hack de PVZ]** : `[Recherche de offsets puis modifier les donner comme par exemple le nombre d'étoile,` **` réaliser en Python]`**
 * **[HCR-Simple-Memory-Modifier]** : `[modification de valeur static avec une interface graphique],` **`réaliser  en Python]`**
 * **[Panel Optimisation]** : `[installer et lancer des .bat puis les supprimer depuis un serveur externe,` **`réaliser  en C++]`**
+*  **[Site Internet]** : `[Profil personnel avec des animations des boutons intéractif et un system de musique intégrer,` **`réaliser  en HTML, CSS, JS]`**
 
 ### 📈 Mon Activité sur GitHub
 
