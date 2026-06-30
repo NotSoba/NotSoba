@@ -1,6 +1,6 @@
 # Salut à tous !
 
-### Apprenti Développeur Passionné
+### je suis un Apprenti Développeur 
 ---
 
 Je suis un développeur en début de carrière, axé sur la construction des **bases solides** en dev.
