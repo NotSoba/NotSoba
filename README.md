@@ -1,4 +1,4 @@
-# Salut à tous ! Je suis NotSoba 👋
+# Salut à tous !
 
 ### Apprenti Développeur Passionné
 ---
